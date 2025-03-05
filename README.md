@@ -1,7 +1,7 @@
 # Library Management System
 
 ## Overview
-This is a Python-based Library Management System built using Tkinter for the graphical user interface (GUI) and SQLite3 for database management. The system allows users to add, delete, search, and update book records efficiently.
+This is a Python-based Library Management System built using Tkinter for the graphical user interface (GUI) and MySQL for database management. The system allows users to add, delete, search, and update book records efficiently.
 
 ## Features
 - **Add New Books**: Users can input book details such as title, author, year, and ISBN.
